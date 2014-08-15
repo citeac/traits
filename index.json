@@ -12,8 +12,7 @@
       "titleSingle": "Author",
       "type": "contributor",
       "csl": [
-        "author",
-        "original-author"
+        "author"
       ]
     },
     "accessionNo": {
@@ -102,9 +101,7 @@
       "title": "Year Published",
       "type": "date",
       "csl": [
-        "issued",
-        "original-date",
-        "submitted"
+        "issued"
       ]
     },
     "dateRange": {
@@ -386,7 +383,8 @@
     },
     "sourceDatePublished": {
       "title": "Source Date Published",
-      "type": "date"
+      "type": "date",
+      "csl": [ "original-date"]
     },
     "sourceAuthor": {
       "title": "source authors",
@@ -425,7 +423,7 @@
       "title": "source title",
       "type": "string",
       "csl": [
-        "original-title"
+        "container-title"
       ]
     },
     "sourcePage": {
@@ -444,9 +442,7 @@
       "title": "Title",
       "type": "string",
       "csl": [
-        "title",
-        "title-short",
-        "container-title"
+        "title"
       ]
     },
     "trackNum": {
@@ -518,13 +514,6 @@
       "type": "string",
       "csl": [
         "collection-title"
-      ]
-    },
-    "shortTitle": {
-      "title": "Authority",
-      "type": "string",
-      "csl": [
-        "container-title-short"
       ]
     },
     "dimensions": {
@@ -645,7 +634,7 @@
     },
     "eventDate": {
       "title": "Event Date",
-      "type": "string",
+      "type": "date",
       "csl": [
         "event-date"
       ]
