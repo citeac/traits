@@ -33,7 +33,7 @@
     },
     "callNo": {
       "title": "Call Number",
-      "type": "string"
+      "type": "string",
       "csl": [
         "call-number"
       ]
