@@ -172,7 +172,10 @@
     },
     "format": {
       "title": "Format",
-      "type": "string"
+      "type": "string",
+      "csl": [
+        "medium"
+      ]
     },
     "fileName": {
       "title": "File Name",
@@ -577,13 +580,6 @@
       "type": "string",
       "csl": [
         "locator"
-      ]
-    },
-    "medium": {
-      "title": "Medium",
-      "type": "string",
-      "csl": [
-        "medium"
       ]
     },
     "note": {
