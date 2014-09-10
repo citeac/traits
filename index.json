@@ -30,13 +30,13 @@
     "boxNo": {
       "title": "Box Number",
       "type": "string",
-      "csl": [
-        "call-number"
-      ]
     },
     "callNo": {
       "title": "Call Number",
       "type": "string"
+      "csl": [
+        "call-number"
+      ]
     },
     "cartographer": {
       "title": "Cartographer",
