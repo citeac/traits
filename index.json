@@ -29,7 +29,7 @@
     },
     "boxNo": {
       "title": "Box Number",
-      "type": "string",
+      "type": "string"
     },
     "callNo": {
       "title": "Call Number",
