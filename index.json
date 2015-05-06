@@ -15,23 +15,23 @@
         "author"
       ]
     },
-    "accessionNo": {
+    "accession_number": {
       "title": "Accession Number",
       "type": "number"
     },
-    "albumTitle": {
+    "album_title": {
       "title": "Album Title",
       "type": "string"
     },
-    "bandNo": {
+    "band_number": {
       "title": "Band Number",
       "type": "string"
     },
-    "boxNo": {
+    "box_number": {
       "title": "Box Number",
       "type": "string"
     },
-    "callNo": {
+    "call_number": {
       "title": "Call Number",
       "type": "string",
       "csl": [
@@ -42,7 +42,7 @@
       "title": "Cartographer",
       "type": "contributor"
     },
-    "chapterTitle": {
+    "chapter_title": {
       "title": "Chapter Title",
       "type": "string"
     },
@@ -53,19 +53,19 @@
         "chapter-number"
       ]
     },
-    "conferenceCity": {
+    "conference_city": {
       "title": "Conference City",
       "type": "string"
     },
-    "conferenceName": {
+    "conference_name": {
       "title": "Conference Name",
       "type": "string"
     },
-    "collectorName": {
+    "collector_name": {
       "title": "Collector Name",
       "type": "string"
     },
-    "corporateAuthor": {
+    "corporate_author": {
       "title": "Corporate Author",
       "type": "string"
     },
@@ -77,42 +77,42 @@
       "title": "Database Name",
       "type": "string"
     },
-    "dateAccessed": {
+    "date_accessed": {
       "title": "Date Accessed",
       "type": "date",
       "csl": [
         "accessed"
       ]
     },
-    "dateOfProduction": {
+    "production_date": {
       "title": "Year of Production",
       "type": "date"
     },
-    "dateOfTransmission": {
+    "date_transmitted": {
       "title": "Transmission Date",
       "type": "date",
       "time": "true"
     },
-    "dateProduced": {
+    "date_produced": {
       "title": "Year Produced",
       "type": "date"
     },
-    "datePublished": {
+    "date_published": {
       "title": "Year Published",
       "type": "date",
       "csl": [
         "issued"
       ]
     },
-    "dateRange": {
+    "date_range": {
       "title": "Date Range",
       "type": "string"
     },
-    "dateSent": {
+    "date_sent": {
       "title": "datesent",
       "type": "date"
     },
-    "degreeLevel": {
+    "degree_level": {
       "title": "Degreelevel",
       "type": "string"
     },
@@ -120,7 +120,7 @@
       "title": "Dept",
       "type": "string"
     },
-    "descriptionOfSource": {
+    "source_description": {
       "title": "Description of Source",
       "type": "string"
     },
@@ -150,23 +150,23 @@
         "editor"
       ]
     },
-    "editorTranslator": {
+    "editor_translator": {
       "title": "Editor & Translator",
       "type": "contributor"
     },
-    "episodeTitle": {
+    "episode_title": {
       "title": "Episode Title",
       "type": "string"
     },
-    "ericNo": {
+    "eric_number": {
       "title": "ERIC database",
       "type": "string"
     },
-    "executiveDirector": {
+    "executive_director": {
       "title": "Executive Directors",
       "type": "contributor"
     },
-    "executiveProducer": {
+    "executive_producer": {
       "title": "Executive Producers",
       "type": "contributor"
     },
@@ -177,11 +177,11 @@
         "medium"
       ]
     },
-    "fileName": {
+    "file_name": {
       "title": "File Name",
       "type": "string"
     },
-    "fileNo": {
+    "file_number": {
       "title": "File Number",
       "type": "string"
     },
@@ -207,11 +207,11 @@
         "issue"
       ]
     },
-    "journalTitle": {
+    "journal_title": {
       "title": "Journal Title",
       "type": "string"
     },
-    "journalVolume": {
+    "journal_volume": {
       "title": "Journal volume",
       "type": "string"
     },
@@ -226,23 +226,23 @@
         "publisher-place"
       ]
     },
-    "mapCity": {
+    "map_city": {
       "title": "Map Subject City/Area",
       "type": "string"
     },
-    "mapCountry": {
+    "map_country": {
       "title": "Map Subject Country",
       "type": "string"
     },
-    "nonRoutineInfo": {
+    "non_routine_info": {
       "title": "Non Routine Information",
       "type": "string"
     },
-    "nameOfArchive": {
+    "archive_name": {
       "title": "Name of Archive",
       "type": "string"
     },
-    "orgRefNo": {
+    "original_reference_number": {
       "title": "Organisation and Reference Number",
       "type": "string"
     },
@@ -253,11 +253,11 @@
         "page"
       ]
     },
-    "patentCountry": {
+    "patent_country": {
       "title": "Patent country",
       "type": "string"
     },
-    "patentNo": {
+    "patent_number": {
       "title": "Patent number",
       "type": "string"
     },
@@ -265,11 +265,11 @@
       "title": "Producers",
       "type": "contributor"
     },
-    "publicationCity": {
+    "publication_city": {
       "title": "Pubcity",
       "type": "string"
     },
-    "publicationNumberingSystem": {
+    "publication_numbering_system": {
       "title": "Publication Numbering System",
       "type": "string"
     },
@@ -280,19 +280,19 @@
         "publisher"
       ]
     },
-    "publisherName": {
+    "publisher_name": {
       "title": "Pubname",
       "type": "string"
     },
-    "publicationNo": {
+    "publication_number": {
       "title": "Pubnum",
       "type": "string"
     },
-    "recipientEmail": {
+    "recipient_email": {
       "title": "Recipient Email",
       "type": "string"
     },
-    "referenceNo": {
+    "reference_number": {
       "title": "Reference Number",
       "type": "string",
       "csl": [
@@ -300,48 +300,48 @@
         "number"
       ]
     },
-    "recipientName": {
+    "recipient_name": {
       "title": "Recipient Name",
       "type": "contributor",
       "csl": [
         "recipient"
       ]
     },
-    "recordingArtist": {
+    "recording_artist": {
       "title": "Recording Artist",
       "type": "string"
     },
-    "recordingDate": {
+    "recording_date": {
       "title": "Recording Date",
       "type": "date"
     },
-    "reviewedBookTitle": {
+    "reviewed_book_title": {
       "title": "Reviewedbooktitle",
       "type": "string"
     },
-    "reviewAuthor": {
+    "review_author": {
       "title": "Author(s) of the review",
       "type": "contributor",
       "csl": [
         "reviewed-author"
       ]
     },
-    "reviewDatePublished": {
+    "review_date_published": {
       "title": "Review Date Published",
       "type": "date"
     },
-    "reviewTitle": {
+    "review_title": {
       "title": "Review title",
       "type": "string",
       "csl": [
         "reviewed-title"
       ]
     },
-    "reviewYear": {
+    "review_year": {
       "title": "Review year",
       "type": "string"
     },
-    "retreivedFrom": {
+    "retreived_from": {
       "title": "retreivedFrom",
       "type": "string"
     },
@@ -352,15 +352,15 @@
         "scale"
       ]
     },
-    "senderEmail": {
+    "sender_email": {
       "title": "Senderemail",
       "type": "string"
     },
-    "senderName": {
+    "sender_name": {
       "title": "Sendername",
       "type": "string"
     },
-    "serialNo": {
+    "serial_number": {
       "title": "Serial number",
       "type": "string"
     },
@@ -368,11 +368,11 @@
       "title": "Series",
       "type": "string"
     },
-    "seriesName": {
+    "series_name": {
       "title": "Seriesname",
       "type": "string"
     },
-    "serieesTitle": {
+    "series_title": {
       "title": "Seriestitle",
       "type": "string"
     },
@@ -380,56 +380,56 @@
       "title": "Side",
       "type": "string"
     },
-    "songTitle": {
+    "song_title": {
       "title": "Song Title",
       "type": "string"
     },
-    "sourceDatePublished": {
+    "source_date_published": {
       "title": "Source Date Published",
       "type": "date",
       "csl": [ "original-date"]
     },
-    "sourceAuthor": {
+    "source_author": {
       "title": "source authors",
       "type": "contributor",
       "csl": [
         "container-author"
       ]
     },
-    "sourceCorporateAuthor": {
+    "source_corporate_author": {
       "title": "source corporate Author",
       "type": "string"
     },
-    "sourceEditor": {
+    "source_editor": {
       "title": "source editor",
       "type": "contributor"
     },
-    "sourceLocation": {
+    "source_location": {
       "title": "source location",
       "type": "string",
       "csl": [
         "original-publisher-place"
       ]
     },
-    "sourcePublisher": {
+    "source_publisher": {
       "title": "source publisher",
       "type": "string",
       "csl": [
         "original-publisher"
       ]
     },
-    "sourceVolume": {
+    "source_volume": {
       "title": "source volume",
       "type": "number"
     },
-    "sourceTitle": {
+    "source_title": {
       "title": "source title",
       "type": "string",
       "csl": [
         "container-title"
       ]
     },
-    "sourcePage": {
+    "source_page": {
       "title": "source page",
       "type": "string"
     },
@@ -437,7 +437,7 @@
       "title": "Taskforce Name",
       "type": "string"
     },
-    "translatedTitle": {
+    "translated_title": {
       "title": "Title",
       "type": "string"
     },
@@ -448,7 +448,7 @@
         "title"
       ]
     },
-    "trackNum": {
+    "track_number": {
       "title": "Track Number",
       "type": "string"
     },
@@ -459,7 +459,7 @@
         "translator"
       ]
     },
-    "uniName": {
+    "university": {
       "title": "Uniname",
       "type": "string"
     },
@@ -491,14 +491,14 @@
         "abstract"
       ]
     },
-    "userNote": {
+    "user_note": {
       "title": "Note",
       "type": "string",
       "csl": [
         "annote"
       ]
     },
-    "archive-location": {
+    "archive_location": {
       "title": "Archive",
       "type": "string",
       "csl": [
@@ -533,7 +533,7 @@
         "event"
       ]
     },
-    "eventLocation": {
+    "event_location": {
       "title": "Event",
       "type": "string",
       "csl": [
@@ -589,14 +589,14 @@
         "note"
       ]
     },
-    "pubMedCentralReference": {
+    "pubmed_central_ref": {
       "title": "PubMed Central Reference Number",
       "type": "string",
       "csl": [
         "PMCID"
       ]
     },
-    "pubMedReference": {
+    "pubmed_ref": {
       "title": "PubMed General Reference Number",
       "type": "string"
     },
@@ -621,21 +621,21 @@
         "source"
       ]
     },
-    "publicationStatus": {
+    "publication_status": {
       "title": "Publication Status",
       "type": "string",
       "csl": [
         "status"
       ]
     },
-    "eventDate": {
+    "event_date": {
       "title": "Event Date",
       "type": "date",
       "csl": [
         "event-date"
       ]
     },
-    "collectionEditor": {
+    "collection_editor": {
       "title": "Collection Editors",
       "type": "contributor",
       "csl": [
@@ -649,7 +649,7 @@
         "composer"
       ]
     },
-    "managingEditor": {
+    "managing_editor": {
       "title": "Managing Editor",
       "type": "contributor",
       "csl": [
@@ -663,14 +663,14 @@
         "illustrator"
       ]
     },
-    "totalPages": {
+    "total_pages": {
       "title": "Total Number of Pages",
       "type": "number",
       "csl": [
         "number-of-pages"
       ]
     },
-    "totalVolumes": {
+    "total_volumes": {
       "title": "Total Number of Volumes",
       "type": "number",
       "csl": [
